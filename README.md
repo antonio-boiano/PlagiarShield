@@ -16,5 +16,5 @@ Install PlagiarShield with the following command:
 USE
 ================
 ```
-PlagiarShield -h
+PlagiarShield -f "*homework.c" search_directory
 ```
