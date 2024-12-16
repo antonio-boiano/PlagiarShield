@@ -2,7 +2,7 @@
 # PlagiarShield
 
 PlagiarShield is a powerful tool designed to detect plagiarism in source files by comparing them with others in a specified directory.
-## Installazione
+## Installation
 
 PlagiarShield uses the standard Python 'setup.py' installation file.
 
@@ -21,7 +21,7 @@ Install PlagiarShield with the following command:
    ```bash
    python3 -m pip install .
    
-USE
+Usage
 ================
 PlagiarShield provides a command-line interface (CLI) for flexible usage. Below are the available options and examples for using the tool.
 
