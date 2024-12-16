@@ -1,8 +1,7 @@
 
 # PlagiarShield
 
-PlagiarShield è uno strumento progettato per rilevare il plagio nei file sorgente, confrontando i file specificati con altri presenti in una directory di ricerca.
-
+PlagiarShield is a powerful tool designed to detect plagiarism in source files by comparing them with others in a specified directory.
 ## Installazione
 
 PlagiarShield uses the standard Python 'setup.py' installation file.
